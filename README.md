@@ -21,6 +21,8 @@ Dataset/
 - **Dilation_SE7**: Dilation operation with Structuring Element 7.
 - **Erosion_SE4**: Erosion operation with Structuring Element 4.
 
+Project Report can be found in : `Project_Report.pdf`
+
 
 ## Target Programs
 
