@@ -1,4 +1,4 @@
-# IPARC_ChallengeV2
+# IPARC_Challenge
 
 ## Description
 
