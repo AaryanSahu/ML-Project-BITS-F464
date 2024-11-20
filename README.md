@@ -20,10 +20,6 @@ Dataset/
 
 The target program is a sequence of predicates, where each predicates has 4 elements - (i) Band (ii) Operator (iii) The structuring element or array (iv) Number of iterations. For example `1-HitOrMiss-SE8-2` operates on Band-1, using `HitOrMiss` with structuring element `SE8` and is repeated `2` times. 
 
-The structuring elements for the morphological operators are described below. (Yellow indicates 1 and purple indicates 0.)
-
-![Alt text](./img/SE.png "List of Structuring Elements Used.")
-
 `TestPredicate.py` allows one to test each predicate on a given set of images. (See section [Accessing individual predicates](#accessing-individual-predicates) below for more details.)
 
 ## Notes
