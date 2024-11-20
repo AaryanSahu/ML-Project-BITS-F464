@@ -10,15 +10,10 @@ Directory Structure of [dataset](./Dataset/)
 
 ```
 Dataset/
-    CatA_Hard/
+    CatA_Simple/
         Task***.json 
         Task***_soln.json 
-        Task***_soln.txt
-    CatA_Simple/
-    CatB_Selection/
-    CatB_Iteration/
-    CatB_Sequence/
-    CatB_Hard/        
+        Task***_soln.txt       
 ```
 
 ## Target Programs
